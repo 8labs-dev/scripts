@@ -1,0 +1,1 @@
+plugins=(git customizations autojump docker)
